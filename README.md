@@ -1,0 +1,2 @@
+# Natural-Language-Processing-In-Tensorflow
+In thisexercice we  you tokenized words from the BBC news reports dataset. This dataset contains articles that are classified into a number of different categories. See if we can design a neural network that can be trained on this dataset to accurately determine what words determine what category. Create the vecs.tsv and meta.tsv files and load them into the embedding projector.
